@@ -1,5 +1,5 @@
 # My-React-Movie-App [React, Appwrite, TMDB api]
-Link: https://68598c459ad995558799af38--myreactmovieappdev.netlify.app/
+Link:(https://myreactmovieappdev.netlify.app/)
 ![image](https://github.com/user-attachments/assets/9af0a5ee-35a2-4e89-9e63-516c1adeced2)
 
 Az alábbi React projekt egy tökéletes demo projekt, amely egy film kereső alkalmazás. 
